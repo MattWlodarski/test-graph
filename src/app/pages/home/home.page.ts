@@ -10,6 +10,7 @@ export class HomePage implements OnInit {
 
   ctx;
   myChart;
+  newVar;
 
   constructor() {
   }
